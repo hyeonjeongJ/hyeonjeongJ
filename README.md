@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hyeonjeongj&label=Profile%20views&color=0e75b6&style=flat" alt="hyeonjeongj" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hyeonjeongj" alt="hyeonjeongj" /></a> </p>
-
 - 📫 How to reach me **lucy2166@naver.com**
 
 <h3 align="left">Connect with me:</h3>
